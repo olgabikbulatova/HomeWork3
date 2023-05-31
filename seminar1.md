@@ -1,5 +1,6 @@
 # _**Инструкция Git**_
 
+![logo gb](geekbrains.png)
 ## *Установка*
 [Git](https://git-scm.com/downloads)
 
@@ -20,5 +21,5 @@
 3. **git add .** - добавляет все файлы в проекте в отслеживание
 4. **git commit -am “message”** - git add + git commit (Работает только после 1-го ручного добавления в отслеживание)
 
-## Установка
+
 
